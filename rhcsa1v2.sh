@@ -8,4 +8,5 @@ do
 	NUMBER=$((NUMBER+111))
 done
 exit
+#Nun, um GIT auszuprobieren, füge ich mal diese Zeile hinzu, um das ganze bezüglich Versionskontrolle mal genauer zu testen.
 		
